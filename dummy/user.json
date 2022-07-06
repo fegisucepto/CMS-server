@@ -1,0 +1,26 @@
+[
+    {
+      "username": "mr_admin",
+      "email": "admin@email.com",
+      "password": "qwerty",
+      "role": "admin",
+      "phoneNumber":"089922113381",
+      "address":"34 Joan Street, South Hadley,ma, 1035  United States"
+    },
+    {
+      "username": "mr_staff",
+      "email": "staff@email.com",
+      "password": "qwerty",
+      "role": "staff",
+      "phoneNumber":"089922113382",
+      "address":"8 S George Mason Drive, Alexandria,va, 22302  United States"
+    },
+    {
+      "username": "john_doe",
+      "email": "customer@email.com",
+      "password": "qwerty",
+      "role": "customer",
+      "phoneNumber":"089922113383",
+      "address":"28 Glover Firle Lane, Collins,ms, 39428  United States"
+    }
+  ]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Dummy For Delete",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \nLorem Ipsum has been the industry's standard dummy text ever since the 1500s, \nwhen an unknown printer took a galley of type and scrambled it to make a type specimen book. \nIt has survived not only five centuries, but also the leap into electronic typesetting, \nremaining essentially unchanged. It was popularised in the 1960s with the release of \nLetraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus \nPageMaker including versions of Lorem Ipsum.\n\nWhy do we use it?\nIt is a long established fact that a reader will be distracted by the readable content \nof a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal \ndistribution of letters, as opposed to using 'Content here, content here', making it look like readable English. \nMany desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.\n'lorem ipsum' will uncover many web sites still in their infancy. \nVarious versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "imgUrl": "https://loremipsum.io/assets/images/lorem-ipsum-generator-custom-placeholder-text.jpg",
+    "authorId": 2,
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "title": "Reactive JavaScript: The evolution of front-end architecture",
+    "content": "Written by Matthew Tyson\n\nOne of the most dynamic areas in software development today is front-end architecture. \nSeveral innovators are pushing the state of the art to devise more powerful ways to build dynamic user interfaces. \nMuch of this work is happening at a furious pace and right out in the open.\n\nThanks to a number of open source JavaScript projects, such as SvelteKit, Solid, React, Qwik, and Astro. \nWe have a front row seat to the evolution of the future of the web. Here is a guide to understanding the action.\n\nFRONT-END ARCHITECTURE EVOLUTION \nThe activity around JavaScript front-end architecture has created some of the most interesting code work I have ever witnessed. \nIt is a space full of passionate individuals who are exploring new conceptual territory and doing the groundbreaking programming to go with it. \nAnd they are interacting and sharing their ideas in an open and collaborative way. It os a pleasure to watch.\n\nMORE DETAIL\nhttps://www.infoworld.com/article/3661810/reactive-javascript-the-evolution-of-front-end-architecture.html",
+    "imgUrl": "https://www.betterteam.com/images/front-end-developer-job-description-4088x2725-2020122.jpeg?crop=1:1,smart&width=1200&dpr=2",
+    "authorId": 1,
+    "categoryId": 3,
+    "status": "active"
+  },
+  {
+    "title": "What is Lorem Ipsum?",
+    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. \nLorem Ipsum has been the industry's standard dummy text ever since the 1500s, \nwhen an unknown printer took a galley of type and scrambled it to make a type specimen book. \nIt has survived not only five centuries, but also the leap into electronic typesetting, \nremaining essentially unchanged. It was popularised in the 1960s with the release of \nLetraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus \nPageMaker including versions of Lorem Ipsum.\n\nWhy do we use it?\nIt is a long established fact that a reader will be distracted by the readable content \nof a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal \ndistribution of letters, as opposed to using 'Content here, content here', making it look like readable English. \nMany desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.\n'lorem ipsum' will uncover many web sites still in their infancy. \nVarious versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "imgUrl": "https://loremipsum.io/assets/images/lorem-ipsum-generator-custom-placeholder-text.jpg",
+    "authorId": 1,
+    "categoryId": 3,
+    "status": "active"
+  }
+]
